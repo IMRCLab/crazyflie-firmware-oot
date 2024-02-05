@@ -1,0 +1,1 @@
+obj-y += oot_controller.o
